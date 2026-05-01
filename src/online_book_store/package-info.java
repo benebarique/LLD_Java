@@ -1,6 +1,7 @@
 package online_book_store;
 
-// 2) Design a system like Amazon Books where users can search, view, purchase, review, and rate books online.
+// 2) Design a system like Amazon Books where users can search, view, 
+//	purchase, review, and rate books online.
 //
 //📚 Subparts to Design
 //
